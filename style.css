@@ -1,0 +1,35 @@
+body#index {
+	background-image: url('/image/bg.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+body#next {
+	background-image: url('/image/bg2.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+body#next2 {
+	background-image: url('/image/bg3.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+body#next3 {
+	background-image: url('/image/bg4.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+body#next4 {
+	background-image: url('/image/bg5.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+a {
+	position: absolute;
+	height: 100vh;
+	width: 100vw;
+}
